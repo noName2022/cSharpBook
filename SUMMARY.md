@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Разбор блока кода](README.md)
+* [Синтаксис](README.md)
